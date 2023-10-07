@@ -4,6 +4,8 @@ import br.com.theus.bookservice.model.Book;
 import br.com.theus.bookservice.proxy.CambioProxy;
 import br.com.theus.bookservice.repository.BookRepository;
 import br.com.theus.bookservice.response.Cambio;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -14,6 +16,7 @@ import org.springframework.web.client.RestTemplate;
 
 import java.util.HashMap;
 
+@Tag(name = "Book endpoint")
 @RestController
 @RequestMapping("book-service")
 public class BookController {
@@ -27,6 +30,7 @@ public class BookController {
     @Autowired
     private CambioProxy proxy;
 
+    @Operation(summary = "Find a specific book by your ID")
     @GetMapping(value = "/{id}/{currency}")
     public Book findBook(@PathVariable ("id") Long id, @PathVariable ("currency") String currency){
 
@@ -37,7 +41,9 @@ public class BookController {
         var cambio = proxy.getCambio(book.getPrice(), "USD", currency);
 
         var port = environment.getProperty("local.server.port");
-        book.setEnvironment(port + " Feign");
+        book.setEnvironment(
+                "Book port: " + port +
+                        " Cambio Port " + cambio.getEnvironment());
         book.setPrice(cambio.getConvertedValue());
         return book;
     }
