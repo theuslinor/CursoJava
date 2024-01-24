@@ -1,0 +1,20 @@
+
+_
+java:S11927"IDefine a constant instead of duplicating this literal "Result: " 4 times.(é¢˜Š
+E	java:S106"+Replace this use of System.out by a logger.(÷°¨´øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ñ‚¯—
+E	java:S106"+Replace this use of System.out by a logger.(Üöğ¿üÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(Üöğ¿üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÁİüÇûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(”ˆƒŸùÿÿÿÿ
+E	java:S1066"+Replace this use of System.out by a logger.(äŸƒıÿÿÿÿ
+@	java:S1067"+Replace this use of System.out by a logger.(é¢˜Š
+@	java:S106:"+Replace this use of System.out by a logger.(¼ é
+@	java:S106;"+Replace this use of System.out by a logger.(ØÓ³ğ
+@	java:S106>"+Replace this use of System.out by a logger.(»Öÿ
+@	java:S106?"+Replace this use of System.out by a logger.(åÂÑí
+?	java:S106B"+Replace this use of System.out by a logger.(›«
+E	java:S106C"+Replace this use of System.out by a logger.(†¢¹½øÿÿÿÿ
+@	java:S106F"+Replace this use of System.out by a logger.(À‚˜
+@	java:S106G"+Replace this use of System.out by a logger.(¨Ğ©

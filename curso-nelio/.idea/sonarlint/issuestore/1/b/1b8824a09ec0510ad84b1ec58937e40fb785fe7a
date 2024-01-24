@@ -1,0 +1,6 @@
+
+Í
+java:S1598"¶This file "Product.java" should be located in "PACKAGE_NAME" directory, not in "C:\Users\mathe\OneDrive\Documentos\Estudos\CursoJava\curso-nelio\CursoJava\removerpreco\src\entities".(½éÇü
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½éÇü
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(½éÇü

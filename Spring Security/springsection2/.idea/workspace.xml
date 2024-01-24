@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4cf1187-8bbd-4331-98a7-ea5a152103e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JMS/RabbitMQ/src/main/java/com/theuslino/RabbitMQ/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JMS/RabbitMQ/src/main/java/com/theuslino/RabbitMQ/RabbitMQConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JMS/RabbitMQ/src/main/java/com/theuslino/RabbitMQ/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JMS/jms/src/main/java/com/theuslino/jms/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JMS/jms/src/main/java/com/theuslino/jms/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eazybank/src/main/java/com/theuslino/eazybank/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eazybank/src/main/java/com/theuslino/eazybank/controller/BalanceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eazybank/src/main/java/com/theuslino/eazybank/controller/CardsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eazybank/src/main/java/com/theuslino/eazybank/controller/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eazybank/src/main/java/com/theuslino/eazybank/controller/LoansController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eazybank/src/main/java/com/theuslino/eazybank/controller/NoticesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecuritybasic/src/main/java/com/theuslino/springsecuritybasic/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecuritybasic/src/main/java/com/theuslino/springsecuritybasic/controller/WelcomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leandro/book-service/src/main/java/br/com/theus/bookservice/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leandro/book-service/src/main/java/br/com/theus/bookservice/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leandro/java-spring-boot-before/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leandro/java-spring-boot-before/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leandro/java-spring-boot-before/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leandro/java-spring-boot-before/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leandro/theus-config-server" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leandro/theus-config-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leo/JPA/demo" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leo/JPA/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/Coringas/Coringas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/Coringas/Coringas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/ArrayList/ArrayList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/ArrayList/ArrayList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/Introduction-to-object-oriented-programming/Introduction-to-object-oriented-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/Introduction-to-object-oriented-programming/Introduction-to-object-oriented-programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/Listas/Listas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/Listas/Listas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise1/exercise1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise1/exercise1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise2/exercise2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise2/exercise2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise3/exercise3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise3/exercise3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise4/exercise4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise4/exercise4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/introduction-to-array-and-arraylist/introduction-to-array-and-arraylist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/introduction-to-array-and-arraylist/introduction-to-array-and-arraylist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/loops/loops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/loops/loops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/teste/teste.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/teste/teste.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/HorasTrabalhadas/HorasTrabalhadas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/HorasTrabalhadas/HorasTrabalhadas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course/course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course/course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course2/course2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course2/course2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course3/course3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course3/course3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/conditionals-if-and-switch/conditionals-if-and-switch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/conditionals-if-and-switch/conditionals-if-and-switch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/course4/course4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/course4/course4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/course5/course5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/course5/course5.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XJhA3Wqu8saDCgcsxs0dswOFlQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/mathe/OneDrive/Documentos/Estudos/CursoJava/Spring Security/springsection2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "01d1f808809c96b57c6fb60855f0127b",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringsecuritybasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="springsection2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.theuslino.springsecuritybasic.SpringsecuritybasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4cf1187-8bbd-4331-98a7-ea5a152103e9" name="Changes" comment="" />
+      <created>1698352948587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698352948587</updated>
+      <workItem from="1698352950066" duration="2265000" />
+      <workItem from="1698418733795" duration="610000" />
+      <workItem from="1698437620433" duration="597000" />
+      <workItem from="1698687589970" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

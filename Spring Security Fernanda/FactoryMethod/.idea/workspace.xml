@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63a61e59-226a-4dbe-8c04-03e8b7efe98f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Hcode Treinamentos/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hcode Treinamentos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hcode Treinamentos/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hcode Treinamentos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hcode Treinamentos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hcode Treinamentos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hcode Treinamentos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hcode Treinamentos/srpdemo/src/main/java/org/example/utility/Notify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JMS/RabbitMQ/src/main/java/com/theuslino/RabbitMQ/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JMS/RabbitMQ/src/main/java/com/theuslino/RabbitMQ/RabbitMQConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JMS/RabbitMQ/src/main/java/com/theuslino/RabbitMQ/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JMS/jms/src/main/java/com/theuslino/jms/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JMS/jms/src/main/java/com/theuslino/jms/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/eazybank/src/main/java/com/theuslino/eazybank/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/eazybank/src/main/java/com/theuslino/eazybank/controller/BalanceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/eazybank/src/main/java/com/theuslino/eazybank/controller/CardsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/eazybank/src/main/java/com/theuslino/eazybank/controller/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/eazybank/src/main/java/com/theuslino/eazybank/controller/LoansController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/eazybank/src/main/java/com/theuslino/eazybank/controller/NoticesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springsection2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springsection2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springsection2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springsecuritybasic/src/main/java/com/theuslino/springsecuritybasic/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springsecuritybasic/src/main/java/com/theuslino/springsecuritybasic/controller/WelcomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leandro/book-service/src/main/java/br/com/theus/bookservice/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leandro/book-service/src/main/java/br/com/theus/bookservice/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leandro/java-spring-boot-before/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leandro/java-spring-boot-before/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leandro/java-spring-boot-before/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leandro/java-spring-boot-before/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leandro/theus-config-server" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leandro/theus-config-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-leo/JPA/demo" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-leo/JPA/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/Coringas/Coringas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/Coringas/Coringas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/ArrayList/ArrayList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/ArrayList/ArrayList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/Introduction-to-object-oriented-programming/Introduction-to-object-oriented-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/Introduction-to-object-oriented-programming/Introduction-to-object-oriented-programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/Listas/Listas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/Listas/Listas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise1/exercise1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise1/exercise1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise2/exercise2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise2/exercise2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise3/exercise3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise3/exercise3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise4/exercise4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/exercise4/exercise4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/introduction-to-array-and-arraylist/introduction-to-array-and-arraylist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/introduction-to-array-and-arraylist/introduction-to-array-and-arraylist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/loops/loops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/loops/loops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJava/teste/teste.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJava/teste/teste.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/HorasTrabalhadas/HorasTrabalhadas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/HorasTrabalhadas/HorasTrabalhadas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course/course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course/course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course2/course2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course2/course2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course3/course3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/CursoJavaCompleto/course3/course3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/conditionals-if-and-switch/conditionals-if-and-switch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/conditionals-if-and-switch/conditionals-if-and-switch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/course4/course4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/course4/course4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-nelio/course5/course5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso-nelio/course5/course5.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2XlyB8X0uBA8AdjqofdLPAKcZGV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/mathe/OneDrive/Documentos/Estudos/CursoJava/Spring Security Fernanda/FactoryMethod/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63a61e59-226a-4dbe-8c04-03e8b7efe98f" name="Changes" comment="" />
+      <created>1699217822557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699217822557</updated>
+      <workItem from="1699217823592" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

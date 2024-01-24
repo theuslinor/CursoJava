@@ -1,0 +1,9 @@
+
+}
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ
+y
+java:S4165"cRemove this useless assignment; "price" already holds the assigned value along all execution paths.(£»®æ
+E
+java:S1656"/Remove or correct this useless self-assignment.(£»®æ
+J
+java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ

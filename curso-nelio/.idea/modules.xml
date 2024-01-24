@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/CursoJava/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coringas/Coringas.iml" filepath="$PROJECT_DIR$/Coringas/Coringas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/Coringas/Coringas1.iml" filepath="$PROJECT_DIR$/CursoJava/Coringas/Coringas1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/EXecoesbom/src/EXecoesbom.iml" filepath="$PROJECT_DIR$/CursoJava/EXecoesbom/src/EXecoesbom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/EXecoesbom/EXecoesbom1.iml" filepath="$PROJECT_DIR$/CursoJava/EXecoesbom/EXecoesbom1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/EXecoesmenospior/EXecoesmenospior.iml" filepath="$PROJECT_DIR$/CursoJava/EXecoesmenospior/EXecoesmenospior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/EXecoesruim/EXecoesruim.iml" filepath="$PROJECT_DIR$/CursoJava/EXecoesruim/EXecoesruim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJavaCompleto/HorasTrabalhadas/HorasTrabalhadas.iml" filepath="$PROJECT_DIR$/CursoJavaCompleto/HorasTrabalhadas/HorasTrabalhadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/Introduction-to-object-oriented-programming/Introduction-to-object-oriented-programming.iml" filepath="$PROJECT_DIR$/CursoJava/Introduction-to-object-oriented-programming/Introduction-to-object-oriented-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/Listas/Listas.iml" filepath="$PROJECT_DIR$/CursoJava/Listas/Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/Maps2/Maps2.iml" filepath="$PROJECT_DIR$/CursoJava/Maps2/Maps2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/aumentarpreco/aumentarpreco.iml" filepath="$PROJECT_DIR$/CursoJava/aumentarpreco/aumentarpreco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/aumentarpreco/src/aumentarpreco1.iml" filepath="$PROJECT_DIR$/CursoJava/aumentarpreco/src/aumentarpreco1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aumentarpreco/aumentarpreco2.iml" filepath="$PROJECT_DIR$/aumentarpreco/aumentarpreco2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/caixaaltapreco/src/caixaaltapreco.iml" filepath="$PROJECT_DIR$/CursoJava/caixaaltapreco/src/caixaaltapreco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/caixaaltapreco/caixaaltapreco1.iml" filepath="$PROJECT_DIR$/CursoJava/caixaaltapreco/caixaaltapreco1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caixaaltapreco/caixaaltapreco2.iml" filepath="$PROJECT_DIR$/caixaaltapreco/caixaaltapreco2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals-if-and-switch/conditionals-if-and-switch.iml" filepath="$PROJECT_DIR$/conditionals-if-and-switch/conditionals-if-and-switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/conditionals-if-and-switch/conditionals-if-and-switch1.iml" filepath="$PROJECT_DIR$/CursoJava/conditionals-if-and-switch/conditionals-if-and-switch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJavaCompleto/course/course.iml" filepath="$PROJECT_DIR$/CursoJavaCompleto/course/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJavaCompleto/course2/course2.iml" filepath="$PROJECT_DIR$/CursoJavaCompleto/course2/course2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJavaCompleto/course3/course3.iml" filepath="$PROJECT_DIR$/CursoJavaCompleto/course3/course3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course4/course4.iml" filepath="$PROJECT_DIR$/course4/course4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/course4/course41.iml" filepath="$PROJECT_DIR$/CursoJava/course4/course41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course5/course5.iml" filepath="$PROJECT_DIR$/course5/course5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/course5/course51.iml" filepath="$PROJECT_DIR$/CursoJava/course5/course51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curso-nelio.iml" filepath="$PROJECT_DIR$/.idea/curso-nelio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/exercise1/exercise1.iml" filepath="$PROJECT_DIR$/CursoJava/exercise1/exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/exercise2/exercise2.iml" filepath="$PROJECT_DIR$/CursoJava/exercise2/exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/exercise3/exercise3.iml" filepath="$PROJECT_DIR$/CursoJava/exercise3/exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/exercise4/exercise4.iml" filepath="$PROJECT_DIR$/CursoJava/exercise4/exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/introduction-to-array-and-arraylist/introduction-to-array-and-arraylist.iml" filepath="$PROJECT_DIR$/CursoJava/introduction-to-array-and-arraylist/introduction-to-array-and-arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" filepath="$PROJECT_DIR$/CursoJava/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/loops/loops.iml" filepath="$PROJECT_DIR$/CursoJava/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/removerpreco/removerpreco.iml" filepath="$PROJECT_DIR$/CursoJava/removerpreco/removerpreco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/somadosprecos/somadosprecos.iml" filepath="$PROJECT_DIR$/CursoJava/somadosprecos/somadosprecos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/somadosprecos/src/somadosprecos1.iml" filepath="$PROJECT_DIR$/CursoJava/somadosprecos/src/somadosprecos1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava/teste/teste.iml" filepath="$PROJECT_DIR$/CursoJava/teste/teste.iml" />
+    </modules>
+  </component>
+</project>
